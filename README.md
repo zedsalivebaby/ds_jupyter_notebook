@@ -1,3 +1,3 @@
 # ds_jupyter_notebook and screenshots
-- Notebook containing exercises on notions of data science and ipynb file manipulations
-- Screenshots of the exercises in .png format 
+- Jupyter notebook containing exercises on notions of data science and ipynb file manipulations
+- Zipped folder of screenshots of the exercises in .png format 
